@@ -114,6 +114,7 @@ class AppComponent{
 export class AppModule{
 }
 
+//bootstrapping Module
 platformBrowserDynamic().bootstrapModule(AppModule);
 
 
